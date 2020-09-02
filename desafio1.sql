@@ -131,11 +131,3 @@ INSERT INTO historico (can_id, usu_id) VALUES
   (3, 4),
   (18, 4),
   (11, 4);
-  
-SELECT * FROM SpotifyClone.albuns;
-SELECT * FROM SpotifyClone.artistas;
-SELECT * FROM SpotifyClone.cancoes;
-SELECT * FROM SpotifyClone.planos;
-SELECT * FROM SpotifyClone.usuarios;
-SELECT * FROM SpotifyClone.historico;
-SELECT * FROM SpotifyClone.seguidores;
